@@ -1,0 +1,254 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (New Zealand) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENZ)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_NZ
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 259, 202
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Debug"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,43,71,40,14,ES_AUTOHSCROLL
+    CONTROL         "Set Gold",IDC_SETGOLD,"Static",SS_SIMPLE | WS_GROUP,13,74,28,8
+    GROUPBOX        "Spawn Enemies",IDC_SPAWN,10,94,131,65
+    PUSHBUTTON      "Enemy Values",IDC_ENEMYVALUES,79,140,50,14
+    PUSHBUTTON      "Tower Values",IDC_TOWERVALUES,157,114,50,14
+    COMBOBOX        IDC_ENEMYTYPE,79,117,48,66,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    GROUPBOX        "Debug Information",IDC_STATIC,10,11,239,46
+    EDITTEXT        IDC_EDIT2,182,71,40,14,ES_AUTOHSCROLL
+    LTEXT           "Set Lives",IDC_STATIC,151,73,30,8
+    GROUPBOX        "Player Variables",IDC_STATIC,10,60,239,29
+    LTEXT           "Select number of enemies to spawn:",IDC_STATIC,16,107,117,8
+    EDITTEXT        IDC_EDIT7,16,117,40,14,ES_AUTOHSCROLL
+    GROUPBOX        "Tower properties",IDC_STATIC,151,94,97,65
+    PUSHBUTTON      "OK",IDC_OK,198,161,50,14
+    PUSHBUTTON      "Cancel",IDC_CANCEL,198,178,50,14
+    CONTROL         "Debug Information",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,16,25,76,10
+    CONTROL         "WireFrame Mode",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,175,25,70,10
+    CONTROL         "Show Bounding Geometry",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,16,39,98,10
+    PUSHBUTTON      "Reset Game",IDC_RESET,175,38,50,14
+    PUSHBUTTON      "Jump To Map Editor",IDC_BUTTON3,11,169,68,14
+    EDITTEXT        IDC_EDIT3,15,143,40,14,ES_AUTOHSCROLL
+    LTEXT           "Spawn Rate:",IDC_STATIC,15,133,42,8
+END
+
+IDD_DIALOG2 DIALOGEX 0, 0, 196, 105
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Save Map"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Cancel",IDCANCEL,112,76,50,14
+    LTEXT           "Player Starting Gold: ",IDC_STATIC,16,8,69,8
+    LTEXT           "Player Starting Lives: ",IDC_STATIC,16,33,71,8
+    LTEXT           "Ammount Of Waves",IDC_STATIC,16,56,65,8
+    EDITTEXT        IDC_DIAL2EDIT1,94,5,65,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DIAL2EDIT2,94,30,65,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DIAL2EDIT3,94,53,65,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Save",IDC_SAVE,33,76,50,14
+END
+
+IDD_DIALOG3 DIALOGEX 0, 0, 9, 9
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Load Map"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+IDD_DIALOG4 DIALOGEX 0, 0, 130, 91
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Map Editor"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,53,29,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDIT2,53,50,40,14,ES_AUTOHSCROLL | ES_NUMBER
+    LTEXT           "Map Width:",IDC_STATIC,9,31,38,8
+    LTEXT           "Map Height:",IDC_STATIC,9,53,40,8
+    LTEXT           "Enter new  map dimensions.",IDC_STATIC,11,11,90,8
+    PUSHBUTTON      "Continue",IDC_CONTINUE,71,68,50,14
+END
+
+IDD_DIALOG5 DIALOGEX 0, 0, 186, 95
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Enter cheat code:",IDC_STATIC,13,15,58,8
+    EDITTEXT        IDC_EDIT1,13,28,127,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Ok",IDC_CHEATOK,125,54,50,14
+    PUSHBUTTON      "Cancel",IDC_CHEATCANCEL,125,70,50,14
+END
+
+IDD_DIALOG6 DIALOGEX 0, 0, 186, 95
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_SPEED,13,21,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_HEALTH,13,52,40,14,ES_AUTOHSCROLL
+    LTEXT           "Enemy Speed: ",IDC_STATIC,13,11,49,8
+    LTEXT           "Enemy Health:",IDC_STATIC,13,42,48,8
+    PUSHBUTTON      "OK",IDC_BUTTON12,127,71,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 252
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 195
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 187
+        BOTTOMMARGIN, 98
+    END
+
+    IDD_DIALOG3, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 2
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 2
+    END
+
+    IDD_DIALOG4, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 123
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 84
+    END
+
+    IDD_DIALOG5, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+    END
+
+    IDD_DIALOG6, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 88
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DIALOG1 DLGINIT
+BEGIN
+    IDC_ENEMYTYPE, 0x403, 5, 0
+0x6146, 0x7473, "\000" 
+    IDC_ENEMYTYPE, 0x403, 7, 0
+0x6f4e, 0x6d72, 0x6c61, "\000" 
+    IDC_ENEMYTYPE, 0x403, 7, 0
+0x7453, 0x6f72, 0x676e, "\000" 
+    IDC_ENEMYTYPE, 0x403, 5, 0
+0x6f42, 0x7373, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON4               ICON                    "Assets\\Aegis.ico"
+#endif    // English (New Zealand) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

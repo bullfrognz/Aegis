@@ -1,0 +1,180 @@
+[Meta Data]
+
+MapPreviewFile = DoubleTap.png
+
+[PlayerStats]
+
+Gold = 50
+Lives = 20
+
+[Terrain]
+
+0_0 = 1
+0_1 = 1
+0_2 = 1
+0_3 = 1
+0_4 = 1
+1_0 = 1
+1_1 = 3
+1_2 = 3
+1_3 = 3
+1_4 = 1
+2_0 = 1
+2_1 = 3
+2_2 = 2
+2_3 = 3
+2_4 = 1
+3_0 = 1
+3_1 = 3
+3_2 = 3
+3_3 = 3
+3_4 = 1
+4_0 = 1
+4_1 = 1
+4_2 = 1
+4_3 = 1
+4_4 = 1
+Height = 5
+Width = 5
+
+[Wave 0]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 8
+SpawnDelay = 1.009550
+
+[Wave 10]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 16
+SpawnDelay = 0.702050
+
+[Wave 11]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 1.014550
+
+[Wave 12]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 1.051000
+
+[Wave 13]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.867400
+
+[Wave 14]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 9
+SpawnDelay = 0.724200
+
+[Wave 15]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.502650
+
+[Wave 16]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 7
+SpawnDelay = 0.896900
+
+[Wave 17]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 17
+SpawnDelay = 1.406350
+
+[Wave 18]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 5
+SpawnDelay = 1.244650
+
+[Wave 19]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 8
+SpawnDelay = 1.390350
+
+[Wave 1]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 14
+SpawnDelay = 1.272850
+
+[Wave 20]
+
+EnemyType = Boss Enemy
+NumberOfEnemies = 1
+SpawnDelay = 1
+
+[Wave 2]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 14
+SpawnDelay = 1.019150
+
+[Wave 3]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 18
+SpawnDelay = 1.110450
+
+[Wave 4]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 18
+SpawnDelay = 1.429400
+
+[Wave 5]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 7
+SpawnDelay = 0.875300
+
+[Wave 6]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 18
+SpawnDelay = 0.958400
+
+[Wave 7]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 20
+SpawnDelay = 1.438100
+
+[Wave 8]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 7
+SpawnDelay = 0.817950
+
+[Wave 9]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 14
+SpawnDelay = 0.577400
+
+[WaveNumber]
+
+Wave = 20
+
+[Waypoints]
+
+WP0 = 2.02831363677978520, 0.00000000000000000, -2.10835647583007810
+WP1 = 1.99560284614562990, 0.00000000000000000, 2.07041835784912110
+WP2 = -2.24214315414428710, 0.00000000000000000, 2.01509761810302730
+WP3 = -2.02666664123535160, 0.00000000000000000, -2.05512046813964840
+WP4 = 1.97634553909301760, 0.00000000000000000, -2.10835647583007810
+WP5 = 1.89054083824157710, 0.00000000000000000, 1.95980167388916020
+WP6 = -2.18766379356384280, 0.00000000000000000, 1.95980167388916020
+WP7 = -2.12917137145996090, 0.00000000000000000, -2.10835647583007810
+WP8 = 1.92304694652557370, 0.00000000000000000, -1.94856834411621090

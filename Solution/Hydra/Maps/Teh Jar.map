@@ -1,0 +1,736 @@
+[Meta Data]
+
+MapPreviewFile = Teh Jar.png
+
+[PlayerStats]
+
+Gold = 150
+Lives = 20
+
+[Terrain]
+
+0_0 = 1
+0_1 = 1
+0_10 = 2
+0_11 = 2
+0_12 = 2
+0_13 = 2
+0_14 = 2
+0_15 = 2
+0_16 = 2
+0_17 = 2
+0_18 = 2
+0_19 = 2
+0_2 = 1
+0_3 = 1
+0_4 = 1
+0_5 = 1
+0_6 = 1
+0_7 = 1
+0_8 = 1
+0_9 = 2
+10_0 = 1
+10_1 = 3
+10_10 = 2
+10_11 = 2
+10_12 = 2
+10_13 = 2
+10_14 = 2
+10_15 = 2
+10_16 = 2
+10_17 = 2
+10_18 = 2
+10_19 = 2
+10_2 = 1
+10_3 = 2
+10_4 = 2
+10_5 = 2
+10_6 = 2
+10_7 = 2
+10_8 = 2
+10_9 = 2
+11_0 = 1
+11_1 = 3
+11_10 = 2
+11_11 = 2
+11_12 = 2
+11_13 = 2
+11_14 = 2
+11_15 = 2
+11_16 = 2
+11_17 = 2
+11_18 = 2
+11_19 = 2
+11_2 = 1
+11_3 = 2
+11_4 = 2
+11_5 = 2
+11_6 = 2
+11_7 = 2
+11_8 = 2
+11_9 = 2
+12_0 = 1
+12_1 = 3
+12_10 = 1
+12_11 = 1
+12_12 = 1
+12_13 = 1
+12_14 = 2
+12_15 = 2
+12_16 = 2
+12_17 = 2
+12_18 = 2
+12_19 = 2
+12_2 = 1
+12_3 = 2
+12_4 = 2
+12_5 = 2
+12_6 = 1
+12_7 = 1
+12_8 = 1
+12_9 = 1
+13_0 = 1
+13_1 = 3
+13_10 = 3
+13_11 = 3
+13_12 = 3
+13_13 = 1
+13_14 = 2
+13_15 = 2
+13_16 = 2
+13_17 = 2
+13_18 = 2
+13_19 = 2
+13_2 = 1
+13_3 = 2
+13_4 = 2
+13_5 = 2
+13_6 = 1
+13_7 = 3
+13_8 = 3
+13_9 = 3
+14_0 = 1
+14_1 = 3
+14_10 = 1
+14_11 = 1
+14_12 = 3
+14_13 = 1
+14_14 = 2
+14_15 = 2
+14_16 = 2
+14_17 = 2
+14_18 = 2
+14_19 = 2
+14_2 = 1
+14_3 = 2
+14_4 = 2
+14_5 = 2
+14_6 = 1
+14_7 = 3
+14_8 = 1
+14_9 = 1
+15_0 = 1
+15_1 = 3
+15_10 = 2
+15_11 = 1
+15_12 = 3
+15_13 = 1
+15_14 = 2
+15_15 = 2
+15_16 = 2
+15_17 = 2
+15_18 = 2
+15_19 = 2
+15_2 = 1
+15_3 = 2
+15_4 = 2
+15_5 = 2
+15_6 = 1
+15_7 = 3
+15_8 = 1
+15_9 = 2
+16_0 = 1
+16_1 = 3
+16_10 = 2
+16_11 = 1
+16_12 = 3
+16_13 = 1
+16_14 = 1
+16_15 = 1
+16_16 = 1
+16_17 = 1
+16_18 = 1
+16_19 = 1
+16_2 = 1
+16_3 = 2
+16_4 = 2
+16_5 = 2
+16_6 = 1
+16_7 = 3
+16_8 = 1
+16_9 = 2
+17_0 = 1
+17_1 = 3
+17_10 = 2
+17_11 = 1
+17_12 = 3
+17_13 = 3
+17_14 = 3
+17_15 = 3
+17_16 = 3
+17_17 = 3
+17_18 = 3
+17_19 = 3
+17_2 = 1
+17_3 = 1
+17_4 = 1
+17_5 = 1
+17_6 = 1
+17_7 = 3
+17_8 = 1
+17_9 = 2
+18_0 = 1
+18_1 = 3
+18_10 = 2
+18_11 = 1
+18_12 = 1
+18_13 = 1
+18_14 = 1
+18_15 = 1
+18_16 = 1
+18_17 = 1
+18_18 = 1
+18_19 = 1
+18_2 = 3
+18_3 = 3
+18_4 = 3
+18_5 = 3
+18_6 = 3
+18_7 = 3
+18_8 = 1
+18_9 = 2
+19_0 = 1
+19_1 = 1
+19_10 = 2
+19_11 = 2
+19_12 = 2
+19_13 = 2
+19_14 = 2
+19_15 = 2
+19_16 = 2
+19_17 = 2
+19_18 = 2
+19_19 = 2
+19_2 = 1
+19_3 = 1
+19_4 = 1
+19_5 = 1
+19_6 = 1
+19_7 = 1
+19_8 = 1
+19_9 = 2
+1_0 = 1
+1_1 = 3
+1_10 = 2
+1_11 = 1
+1_12 = 1
+1_13 = 1
+1_14 = 1
+1_15 = 1
+1_16 = 1
+1_17 = 1
+1_18 = 1
+1_19 = 1
+1_2 = 3
+1_3 = 3
+1_4 = 3
+1_5 = 3
+1_6 = 3
+1_7 = 3
+1_8 = 1
+1_9 = 2
+2_0 = 1
+2_1 = 3
+2_10 = 2
+2_11 = 1
+2_12 = 3
+2_13 = 3
+2_14 = 3
+2_15 = 3
+2_16 = 3
+2_17 = 3
+2_18 = 3
+2_19 = 3
+2_2 = 1
+2_3 = 1
+2_4 = 1
+2_5 = 1
+2_6 = 1
+2_7 = 3
+2_8 = 1
+2_9 = 2
+3_0 = 1
+3_1 = 3
+3_10 = 2
+3_11 = 1
+3_12 = 3
+3_13 = 1
+3_14 = 1
+3_15 = 1
+3_16 = 1
+3_17 = 1
+3_18 = 1
+3_19 = 1
+3_2 = 1
+3_3 = 2
+3_4 = 2
+3_5 = 2
+3_6 = 1
+3_7 = 3
+3_8 = 1
+3_9 = 2
+4_0 = 1
+4_1 = 3
+4_10 = 2
+4_11 = 1
+4_12 = 3
+4_13 = 1
+4_14 = 2
+4_15 = 2
+4_16 = 2
+4_17 = 2
+4_18 = 2
+4_19 = 2
+4_2 = 1
+4_3 = 2
+4_4 = 2
+4_5 = 2
+4_6 = 1
+4_7 = 3
+4_8 = 1
+4_9 = 2
+5_0 = 1
+5_1 = 3
+5_10 = 1
+5_11 = 1
+5_12 = 3
+5_13 = 1
+5_14 = 2
+5_15 = 2
+5_16 = 2
+5_17 = 2
+5_18 = 2
+5_19 = 2
+5_2 = 1
+5_3 = 2
+5_4 = 2
+5_5 = 2
+5_6 = 1
+5_7 = 3
+5_8 = 1
+5_9 = 1
+6_0 = 1
+6_1 = 3
+6_10 = 3
+6_11 = 3
+6_12 = 3
+6_13 = 1
+6_14 = 2
+6_15 = 2
+6_16 = 2
+6_17 = 2
+6_18 = 2
+6_19 = 2
+6_2 = 1
+6_3 = 2
+6_4 = 2
+6_5 = 2
+6_6 = 1
+6_7 = 3
+6_8 = 3
+6_9 = 3
+7_0 = 1
+7_1 = 3
+7_10 = 1
+7_11 = 1
+7_12 = 1
+7_13 = 1
+7_14 = 2
+7_15 = 2
+7_16 = 2
+7_17 = 2
+7_18 = 2
+7_19 = 2
+7_2 = 1
+7_3 = 2
+7_4 = 2
+7_5 = 2
+7_6 = 1
+7_7 = 1
+7_8 = 1
+7_9 = 1
+8_0 = 1
+8_1 = 3
+8_10 = 2
+8_11 = 2
+8_12 = 2
+8_13 = 2
+8_14 = 2
+8_15 = 2
+8_16 = 2
+8_17 = 2
+8_18 = 2
+8_19 = 2
+8_2 = 1
+8_3 = 2
+8_4 = 2
+8_5 = 2
+8_6 = 2
+8_7 = 2
+8_8 = 2
+8_9 = 2
+9_0 = 1
+9_1 = 3
+9_10 = 2
+9_11 = 2
+9_12 = 2
+9_13 = 2
+9_14 = 2
+9_15 = 2
+9_16 = 2
+9_17 = 2
+9_18 = 2
+9_19 = 2
+9_2 = 1
+9_3 = 2
+9_4 = 2
+9_5 = 2
+9_6 = 2
+9_7 = 2
+9_8 = 2
+9_9 = 2
+Height = 20
+Width = 20
+
+[Wave 0]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 16
+SpawnDelay = 0.382870
+
+[Wave 10]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 11
+SpawnDelay = 0.563190
+
+[Wave 11]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 15
+SpawnDelay = 1.101630
+
+[Wave 12]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 12
+SpawnDelay = 1.321570
+
+[Wave 13]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 6
+SpawnDelay = 1.256330
+
+[Wave 14]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.821210
+
+[Wave 15]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 5
+SpawnDelay = 0.509080
+
+[Wave 16]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 18
+SpawnDelay = 0.989140
+
+[Wave 17]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.316510
+
+[Wave 18]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 16
+SpawnDelay = 0.211090
+
+[Wave 19]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 20
+SpawnDelay = 0.621360
+
+[Wave 1]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.820370
+
+[Wave 20]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 7
+SpawnDelay = 0.563260
+
+[Wave 21]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 9
+SpawnDelay = 1.135860
+
+[Wave 22]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.155860
+
+[Wave 23]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.133040
+
+[Wave 24]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 15
+SpawnDelay = 0.960440
+
+[Wave 25]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 8
+SpawnDelay = 1.373300
+
+[Wave 26]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 11
+SpawnDelay = 0.533370
+
+[Wave 27]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 13
+SpawnDelay = 1.440920
+
+[Wave 28]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 15
+SpawnDelay = 0.284380
+
+[Wave 29]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 12
+SpawnDelay = 0.122960
+
+[Wave 2]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.871400
+
+[Wave 30]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 15
+SpawnDelay = 0.442020
+
+[Wave 31]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 6
+SpawnDelay = 0.790830
+
+[Wave 32]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 9
+SpawnDelay = 0.199120
+
+[Wave 33]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.822540
+
+[Wave 34]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.498930
+
+[Wave 35]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 17
+SpawnDelay = 0.652440
+
+[Wave 36]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 8
+SpawnDelay = 0.849840
+
+[Wave 37]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.170210
+
+[Wave 38]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 10
+SpawnDelay = 1.128160
+
+[Wave 39]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 18
+SpawnDelay = 1.167850
+
+[Wave 3]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.614360
+
+[Wave 40]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 15
+SpawnDelay = 0.840950
+
+[Wave 41]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 18
+SpawnDelay = 0.596160
+
+[Wave 42]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 14
+SpawnDelay = 0.362990
+
+[Wave 43]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 9
+SpawnDelay = 0.391830
+
+[Wave 44]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 14
+SpawnDelay = 1.303230
+
+[Wave 45]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 6
+SpawnDelay = 0.265760
+
+[Wave 46]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 6
+SpawnDelay = 0.838850
+
+[Wave 47]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 10
+SpawnDelay = 0.620870
+
+[Wave 48]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 6
+SpawnDelay = 1.364200
+
+[Wave 49]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 14
+SpawnDelay = 1.229730
+
+[Wave 4]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 9
+SpawnDelay = 0.413880
+
+[Wave 5]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 19
+SpawnDelay = 0.103710
+
+[Wave 6]
+
+EnemyType = Medium Enemy
+NumberOfEnemies = 7
+SpawnDelay = 0.655660
+
+[Wave 7]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 17
+SpawnDelay = 1.368890
+
+[Wave 8]
+
+EnemyType = Heavy Enemy
+NumberOfEnemies = 5
+SpawnDelay = 1.142510
+
+[Wave 9]
+
+EnemyType = Fast Enemy
+NumberOfEnemies = 8
+SpawnDelay = 1.346490
+
+[WaveNumber]
+
+Wave = 50
+
+[WaveStartingNumber]
+
+Wave = 1
+
+[Waypoints]
+
+WP0 = -15.27622222900390600, 0.00000000000000000, 19.66030883789062500
+WP1 = -15.33392906188964800, 0.00000000000000000, 4.94753170013427730
+WP10 = 15.12501430511474600, 0.00000000000000000, 5.00341320037841800
+WP11 = 15.17567348480224600, 0.00000000000000000, 19.02184486389160200
+WP2 = -7.02805089950561520, 0.00000000000000000, 4.94753170013427730
+WP3 = -7.24665832519531250, 0.00000000000000000, -5.10190820693969730
+WP4 = -17.27167701721191400, 0.00000000000000000, -5.20307302474975590
+WP5 = -17.31946945190429700, 0.00000000000000000, -17.21883392333984400
+WP6 = 16.92665863037109400, 0.00000000000000000, -17.35258293151855500
+WP7 = 17.16162872314453100, 0.00000000000000000, -5.30413484573364260
+WP8 = 6.99327945709228520, 0.00000000000000000, -5.10190820693969730
+WP9 = 7.23714113235473630, 0.00000000000000000, 4.83586120605468750
